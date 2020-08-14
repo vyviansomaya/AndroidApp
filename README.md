@@ -7,5 +7,5 @@ The android studio is used to create a virtual device and to create an APK file.
 ## To execute : 
 ### run the below command from the root directory
 - ionic serve 
-- or find the apk file and open it in an android emulator.
+- or find the apk file to open it in the android emulator.
 
